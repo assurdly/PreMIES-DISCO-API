@@ -1,0 +1,7 @@
+{
+    "fullname": "Belle Tran",
+    "location": "wuse",
+    "pagerole": "me",
+    "username": "pejylicoxe@yopmail.com",
+    "disco": "Abuja Electricity Distribution Company"
+}

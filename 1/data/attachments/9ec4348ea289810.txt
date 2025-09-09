@@ -1,0 +1,5 @@
+{
+  "message": "Test Email",
+  "receiver": "viviendrep@yopmail.com",
+  "subject": "string"
+}

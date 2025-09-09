@@ -1,0 +1,8 @@
+[
+  {
+    "meternumber": "string"
+  },
+  {
+    "meternumber": "string"
+  }
+]

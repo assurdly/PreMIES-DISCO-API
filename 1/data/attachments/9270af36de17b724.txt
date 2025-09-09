@@ -1,0 +1,26 @@
+[
+  {
+    "alternatephone": "string",
+    "disco": "string",
+    "email": "string",
+    "firstname": "string",
+    "lastname": "string",
+    "phonenumber": "string",
+    "vendorid": "string",
+    "middlename": "string",
+    "state": "string",
+    "lga": "string"
+  },
+  {
+    "alternatephone": "string",
+    "disco": "string",
+    "email": "stri",
+    "firstname": "string",
+    "lastname": "string",
+    "phonenumber": "string",
+    "vendorid": "string",
+    "middlename": "string",
+    "state": "string",
+    "lga": "string"
+  }
+]

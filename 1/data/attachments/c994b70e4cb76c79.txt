@@ -1,0 +1,5 @@
+{
+    "username": "gilmaf@yopmail.com",
+    "password": "Tester@123",
+    "newpassword": "Tester@123"
+}

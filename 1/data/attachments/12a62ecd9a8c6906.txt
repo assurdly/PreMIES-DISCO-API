@@ -1,0 +1,15 @@
+{
+    "id": 5,
+    "fullname": "Dominic Mason",
+    "roles": "",
+    "username": "dommas@yopmail.com",
+    "location": "Madagali",
+    "pagerole": "me",
+    "disco": "Abuja Electricity Distribution Company",
+    "retry": 0,
+    "logtime": null,
+    "datejoint": "2025-09-01T23:13:52.0584586",
+    "password": null,
+    "passcode": null,
+    "codevalid": null
+}

@@ -1,0 +1,1 @@
+{"firstname":"Blake","lastname":"Lambert","auth_level":"DISCOs","fullname":"Blake Lambert","roles":"Regional Admin","username":"blakequinn@yopmail.com","emailaddress":"blakequinn@yopmail.com","pagerole":"1","disco":"Abuja Electricity Distribution Company","prop_scheme":"PMI"}

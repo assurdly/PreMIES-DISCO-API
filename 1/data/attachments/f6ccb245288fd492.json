@@ -1,0 +1,12 @@
+{
+    "Content-Type": "application/json",
+    "Authorization": "Bearer CfDJ8INFySu2EHZOtaHu84e5WgKPx5UeKrz02I9u7iclUMqzcQY5nigvwcEvel4fiOPOKE-RWO_hJN4BhNEohkhZtcstBFjVDctxeYxQ5YXptNTQoMaHAuyk2P_-RSkLsOSD3HHhMZNb0mUZbluH90XyCopzSeFD5thNEYOhP07w7s_RI76M1psTYHU37XX4m9UCGjOhqoMuPvToJfSH_PWdArTZ3_Jrf4E2SXG1kxOR3ezcB6RgswJZvB_JRUUTotc5jlu4rE6eXuDrZWfHsVabvJtUr0iJkIRDhbhuSNGUXir5a-dBsha_gxsmCxBgJzOvMX4zySssInIYT7W7k34siyFb_WLbP7109KBDHs4UDXf8eGRQ3V3aGQjHNAyq428aYhE6x6bmZu3oQVHxuBf-ZuKvlNRyDqTfBtaa1tP9i42LafH6aNIdBzR8RgH2ysh4ywdGZlr0WCcwP1xv109gp_ouqCeBTRC1oWiY5fx8BaI9g92V-6iot16IMhOu-p14UwUdEZToV1X9u0xkRdqfuDRd0gw99LkO3iOV5tnk3KI7_xKohLAj4-fKU4bd5hsmLg",
+    "User-Agent": "PostmanRuntime/7.39.1",
+    "Accept": "*/*",
+    "Cache-Control": "no-cache",
+    "Postman-Token": "2771ecf3-9cd6-4a92-82de-4d026ecaf3dc",
+    "Host": "appmodule.delightfulgrass-0dcdf3e6.brazilsouth.azurecontainerapps.io",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Connection": "keep-alive",
+    "Content-Length": "53"
+}

@@ -1,0 +1,1 @@
+{"cc":0,"responsecode":200,"data":{"totalmeter":10,"meter":6,"certified":1,"prnding":9},"responsemessage":"","patterns":"","responsStatus":true,"totalpage":0,"currentpage":0}

@@ -1,0 +1,4 @@
+{
+    "installernumber": "{{disco_installer_number}}",
+    "vendor": "Abuja Electricity Distribution Company"
+}

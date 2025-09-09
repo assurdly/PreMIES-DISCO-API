@@ -1,0 +1,10 @@
+[
+  {
+    "message": "string",
+    "meternumber": "string"
+  },
+  {
+    "message": "string",
+    "meternumber": "string"
+  }
+]
